@@ -39,7 +39,7 @@
         display: flex;
         justify-content: space-evenly;
         align-items: center;
-        margin-top: calc(100vh - 100px);
+        margin-top: calc(100vh - 200px);
         position: fixed;
                 }
     .home{
