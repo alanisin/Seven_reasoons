@@ -14,19 +14,39 @@ body {
     background-color: rgb(139, 43, 43);
     width: 100vw;
     height: 10000px;
+    position: relative;
 }
+
 
 header {
     width: 100%;
+   padding-left: 10px;
+   padding-right: 10px;
     height: 50px;
     background-color: black;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     position: fixed;
 }
 
 .logo_img {
+    background-image: url(./img/sevenreasoons_yellow_logo.svg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+}
+.user_img{
+    background-image: url(./img/sevenreasoons_yellow_logo.svg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+}
+.menu_img {
     background-image: url(./img/sevenreasoons_yellow_logo.svg);
     background-position: center;
     background-size: contain;
