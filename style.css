@@ -13,7 +13,7 @@ body {
 
     background-color: rgb(139, 43, 43);
     width: 100vw;
-    height: 10000px;
+    height: auto;
     position: relative;
 }
 
