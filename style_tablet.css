@@ -1,0 +1,11 @@
+.down-menu {
+    background-color: rgb(221, 156, 16);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position:fixed;
+    top:calc(100vh - 50px)
+    
+}

@@ -62,7 +62,7 @@ header {
     justify-content: space-evenly;
     align-items: center;
     position:fixed;
-    top:calc(100vh - 50px)
+    top:calc(100vh - 100px)
     
 }
 
